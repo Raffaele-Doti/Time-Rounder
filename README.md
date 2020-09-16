@@ -9,6 +9,6 @@ This sample makes use of Microsoft.Extensions.DependencyInjection to instanciate
 
 ### How to try it 
 
-*__Clone__ the project into a folder (__REQUIRES GIT__ use this command from terminal to clone the repo-> __git clone https://github.com/Raffaele-Doti/Time-Rounder.git__ )
-*__Open__ the solution in Microsoft Visual Studio
-*Hit the "__Run__" button in Visula Studio 
+* __Clone__ the project into a folder (__REQUIRES GIT__ use this command from terminal to clone the repo-> __git clone https://github.com/Raffaele-Doti/Time-Rounder.git__ )
+* __Open__ the solution in Microsoft Visual Studio
+* Hit the "__Run__" button in Visula Studio 
